@@ -1,0 +1,134 @@
+What we know so far?
+
+- After saddening ROPE drama (RIP FREN SHIP WEN UNITE 2G-ETHER), on October 23rd ghouls airdropped pack of 11 MoonBase NTF cards to lucky Moonbase holders.
+- According to OpenSea data; 80 ETH worth sold/exchanged in 3 days. Highest ever sold is worth 6.9 ETH so far.
+
+OpenSea Moonbase Page: https://opensea.io/assets/moonbase-the-game-v2
+Moonbase NFT Game Contract Address: 0xf9b3b38a458c2512b6680e1f3bc7a022e97d7dab
+Rarible Page: https://app.rarible.com/collection/0xf9b3b38a458c2512b6680e1f3bc7a022e97d7dab/
+Moonbase TG Room: https://telegram.me/collablandbot?start=rec0SRxLZJVrrMjpV_-tpc
+
+Main TG room leak gave us some data about what this cards are:
+
+THERE ARE 42 DIFFERENT CARDS
+CARDS BELONG ONE OF 4 DIFFERENT GROUPS: SKILL, CHARACTER, LAND TILE OR TRAP
+AND 8 LEVELS OF RARITY:
+
+Series Shit > Series Shit (DUPLICATE BEWARE!!!) > Series Gold > Series Based > Series 420 > Series Super > Series Duper > GOD
+
+Turns out supply is scarce. There will be only 15669 MoonBase cards. So far 4000 minted.
+
+Series supply data;
+
+Series Shit cards list > DISTRIBUTEREWARDS, Dollar, Don't Trust His Lies, Ghoul-that blue background blurred skull;
+
+DISTRIBUTEREWARDS > 905 max to be minted
+Dollar > 905 max
+Don't Trust His Lies > 905 max
+Ghoul-that blue background blurred skull > 905 max
+
+Series shit max supply 3620 cards.
+
+SHIT SKILL SUPPLY: 2715 
+SHIT CHARACTER SUPPLY: 905
+
+-----------
+Shit Duplicate > /DISTRIBUTEREWARDS CARD
+
+/DISTRIBUTEREWARDS > 906 max
+
+Shit Duplicate max supply 906 cards.
+
+SHIT DUP SKILL SUPPLY: 906
+
+-----------
+Series Gold cards list > DMT JOURNEY, DRALL'S VISION, EARTH, MOON, GHOUL, GHOUL 311, GREEBOHX, EPSILON, MORGOTH, MR. BIG, MR. WCKD, OUT OF BODY, PSYCHIC VOID, QWAARTH, SIMULATE REALITY, SPECTRE, UNIT G
+
+DMT JOURNEY > 666 max
+DRALL'S VISION > 666 max
+EARTH > 666 max
+MOON > 666 max
+GHOUL > 666 max
+GHOUL 311 > 666 max
+GREEBOHX > 666 max
+EPSILON > 666 max
+MORGOTH > 666 max
+MR. BIG > 666 max
+MR. WCKD > 666 max
+OUT OF BODY > 666 max
+PSYCHIC VOID > 666 max
+QWAARTH > 666 max
+SIMULATE REALITY > 666 max
+SPECTRE > 666 max
+UNIT G > 666 max
+
+Series Gold max supply 11322 cards in total.
+
+GOLD SERIES CHARACTER SUPPLY: 6660 
+GOLD SERIES LAND TILE SUPPLY:	3996 
+GOLD SERIES TRAP SUPPLY:	666
+
+-----------
+Series Based cards list > FUD CARD, POOL 0 CARD, JUST MARKET BUY CARD, FAKE ADMINS CARD, FRIES CARD
+
+FUD CARD >  420 max
+POOL 0 CARD >  420 max
+JUST MARKET BUY CARD >  420 max
+FAKE ADMINS CARD >  420 max
+FRIES CARD >  420 max
+
+Series Based max supply 2100 cards in total.
+
+BASED SERIES CHARACTER SUPPLY: 840 
+BASED SERIES SKILL SUPPLY: 840 
+BASED SERIES TRAP SUPPLY: 420
+
+-----------
+Series 420 cards list > BUY FOR MEMES CARD, HODL CARD, KEYS BURNED CARD, AMPL GODDESS, FEW DAYS CARD
+
+BUY FOR MEMES CARD
+HODL CARD
+KEYS BURNED CARD
+AMPL GODDESS
+FEW DAYS CARD
+
+Series 420 max supply 345 cards in total.
+
+420 SERIES CHARACTER SUPPLY: 69
+420 SERIES SKILL SUPPLY: 138
+420 SERIES TRAP SUPPLY: 69
+420 SERIES LAND TILE SUPPLY: 69
+
+-----------
+Series Super cards list > ASTARIA CARD, COMMUNITY CARD, REGULATIONS CARD, ROVER CARD, FIRE THE REBASE CARD
+
+ASTARIA CARD
+COMMUNITY CARD
+REGULATIONS CARD
+ROVER CARD
+FIRE THE REBASE CARD
+
+Series Super max supply 78 cards in total.
+
+SUPER SERIES CHARACTER SUPPLY: 13
+SUPER SERIES SKILL SUPPLY: 26
+SUPER SERIES TRAP SUPPLY: 13
+SUPER SERIES LAND TILE SUPPLY: 26
+
+-----------
+Series Duper cards list > 12 (GHOULS OFFICIAL CARD,  I SOLD MY TOKENS CARD, RUGS PULLED CARD, WCTGTTM CARD)
+
+GHOULS OFFICIAL CARD
+I SOLD MY TOKENS CARD
+RUGS PULLED CARD
+WCTGTTM CARD
+
+Series Duper max supply 12 cards in total.
+
+DUPER SERIES CHARACTER SUPPLY: 3
+DUPER SERIES SKILL SUPPLY: 6
+DUPER SERIES TRAP SUPPLY: 3
+
+-----------
+
+GOD card list > GOD > 1 max (no mint yet, who will mint the GOD card?)
